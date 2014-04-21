@@ -1,2 +1,2 @@
-NMR-protein-structure-parser-
+NMR-protein-structure-parser
 =============================
